@@ -1,0 +1,8 @@
+# --- Core Data Processing / 核心数据处理 ---
+pandas
+numpy
+openpyxl
+
+# --- Visualization / 实时可视化 ---
+matplotlib
+seaborn

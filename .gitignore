@@ -1,0 +1,24 @@
+# --- Python environment / Python 环境 ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# --- Jupyter Notebook / 数据分析临时文件 ---
+.ipynb_checkpoints/
+.virtual_env/
+
+# --- Operating System files / 操作系统垃圾文件 ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Data files (Optional) / 数据文件 (可选) ---
+# If your data files are too large (>50MB), uncomment the line below:
+# 如果你的原始数据太大，取消下面这行的注释来忽略它：
+# Data/*.csv
+
+# --- VS Code specific / 编辑器配置 ---
+.vscode/
