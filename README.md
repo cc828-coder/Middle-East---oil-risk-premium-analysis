@@ -1,5 +1,5 @@
-# Middle East Oil Risk Premium Quantitative Analysis
-## 中东原油风险溢价量化分析
+# 🚀Quantitative Analysis: Crude Oil "Risk Premium" Under Middle East Conflict
+## 中东冲突背景下的原油“风险溢价”量化分析报告
 
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
